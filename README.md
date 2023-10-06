@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @hugo45380
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning at the IUT of Orleans
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me hugdeoliveira1@gmail.com
+
