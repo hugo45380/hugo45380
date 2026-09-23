@@ -1,15 +1,13 @@
 # Salut, moi c'est Hugo ! 👋
 
-Étudiant en **BUT Informatique**, je passe une bonne partie de mon temps à concevoir des applications web et mobiles, tester des architectures et comprendre ce qui se passe sous le capot. 
-
-Ce que j'aime par-dessus tout : partir d'une feuille blanche, bloquer sur un bug pendant deux heures, et finir par voir tourner un projet propre et bien pensé.
+Étudiant en **BUT Informatique**, je m'intéresse principalement au **développement logiciel et web**. J'utilise ce profil pour regrouper mes projets de formation ainsi que mes développements personnels.
 
 ---
 
-### 👨‍💻 En ce moment
+### 🎯 En résumé
 
-- 🎓 En formation au BUT Informatique, où j'alterne entre projets académiques et expérimentations perso.
-- 🌱 Je creuse particulièrement la conteneurisation avec **Docker** et les architectures réactives avec **Vue.js** & **Flutter**.
+- 🎓 **Formation :** BUT Informatique
+- 💻 **Centres d'intérêt :** Conception d'applications, dev web et mobile
 - 💼 **Je recherche un stage de fin d'études (15 à 16 semaines) à partir de février 2027** en développement logiciel / web / mobile.
 
 ---
@@ -28,9 +26,7 @@ Ce que j'aime par-dessus tout : partir d'une feuille blanche, bloquer sur un bug
 
 ### 💬 Discutons !
 
-Un projet sympa, une opportunité de stage ou simplement envie d'échanger sur la tech ?
+Un projet sympa, une opportunité de stage ou simplement envie d'échanger ?
 
-- 💼 [Mon profil LinkedIn](https://linkedin.com/in/ton-profil)
-- ✉️ [ton-adresse@email.com](mailto:ton-adresse@email.com)
-- 
-<!-- - 🌐 [Mon Portfolio](https://ton-site.com) -->
+- 💼 [Mon profil LinkedIn]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/hugo-de-oliveira-596bb9309/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7x%2Bdj7YHSAWMxUvSmL9QSQ%3D%3D))
+- ✉️ [ton-adresse@email.com](hugdeoliveira1@gmail.com)
