@@ -28,5 +28,5 @@
 
 Un projet sympa, une opportunité de stage ou simplement envie d'échanger ?
 
-- 💼 [Mon profil LinkedIn]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/hugo-de-oliveira-596bb9309/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7x%2Bdj7YHSAWMxUvSmL9QSQ%3D%3D))
+- 💼 [Mon profil LinkedIn](https://www.linkedin.com/in/hugo-de-oliveira-596bb9309/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7x%2Bdj7YHSAWMxUvSmL9QSQ%3D%3D)
 - ✉️ [ton-adresse@email.com](hugdeoliveira1@gmail.com)
